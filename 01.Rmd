@@ -1,24 +1,30 @@
-# My first cool idea {#slug-one}
+# My first cool idea
 
 #### Keywords
 
-yaba, daba, do
+Opportunity scoring
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Every one of us fail at times. And then, we look back in retrospect and wonder how things could have gone differently. But if we could start our endeavors with this hindsight, we could avoid many failures.
+
+Sales teams are often surrounded with enormous numbers of opportunities, which makes picking win opportunities very challenging, if not impossible. For many sales teams, they need more rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which opportunity to prioritize and which deals may require a bit of extra effort. They want to be focused on the highest value and deals through automated scoring rules informed by predictive analytics. They also want to forecast revenue and bookings numbers based on current opportunities.
+
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Using machine-learning techniques, we can score sales opportunities to determine the likelihood of winning a deal. Sales reps can then use these scores to prioritize the opportunities they work on. 
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+We can use text-mining techniques to scrape data from email communications between sales representatives and customers to evaluate the success probability of a deal. In addition, we can take the following feature specifications into consideration:
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+*  Revenue potential, customer historical transactions, resource requirement, familiarity, conflicts, cost of sales, customer    relationships, and responsible sales representatives’ performance
+  
+Once we have defined all the relevant criteria, definitions and applied the scoring, we can then move to create a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
+
+In addition, we can create a predictive model – based on all the historical opportunities and whether they successfully converted into win deals. The model can look at all the attributes of the opportunity including custom fields and identifies which attributes are most correlated to successful conversions. The output is a predictive model with weightings for each attribute. This model can then be applied to every new opportunity to predict whether it will result in a successful conversion.
+ 
+
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Keeping score of the opportunities provides a consistent methodology to measure and prioritize the right opportunities sales teams should be pursuing in their pipeline. Opportunity scoring is a powerful tool to help them separate the winners from the losers with insights in business intelligence and predictive analytics.
