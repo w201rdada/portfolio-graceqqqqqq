@@ -12,9 +12,9 @@ China’s online English education market is estimated to grow at more than 50 p
 ## A middle.
 We can provide online education platform that offers an American elementary education experience to Chinese students. We will hire qualified teachers with experience in the North American classroom to give one-on-one, fully immersive lessons delivered via our platform and based on U.S. Standards. The process will adhere to a flipped classroom model, entailing a pre-class video that introduce key learning points, interactive one-on-one instruction that reinforce learning objectives, and follow-up, post class homework.
 
-As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching pattern. For example, some students like patient teachers while others tend to study better with encouraging teachers. Likewise, some teachers enjoy teaching smart and creative students while others tend to teach obedient ones. We will apply machine learning to study both students' and teachers' behaviors to provide a more tailor curricula. 
+As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching pattern. For example, some students like patient teachers while others tend to study better with encouraging ones. Likewise, some teachers enjoy working with smart and creative students while others tend to get along with obedient ones. We will apply machine learning to study both students' and teachers' behaviors to provide a more tailor curricula. 
 
 
 ## An end.
-Our service is tapping into the demand among Chinese middle-class parents to have their children learn English in the most authentic way and the desire of underpaid North American teachers to make more money during their spare time. Do not miss this opportunity to help the younger generation build a better future!
+Our service is tapping into the demand among Chinese middle-class parents to have their children learn English in the most authentic way and the desire of underpaid English teachers to make more money during their spare time. Do not miss this opportunity to help the younger generation build a better future!
 
