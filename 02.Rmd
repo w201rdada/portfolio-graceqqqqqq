@@ -18,4 +18,5 @@ As we attract more students and teachers, data science can help us match student
 ## Don't Miss This Opportunity
 Our service is tapping into the demand among Chinese middle-class parents to have their children learn English in the most authentic way and the desire of underpaid English teachers to make more money during their spare time. Do not miss this opportunity to help the younger generation build a better future!
 
-Reference: Chen, Lydia. 2016. "Golden Age of China's Education Industry". Technology, Media & Telecommunications Industry, Deloitte China. https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-golden-age-of-the-chinese-education-market-en-160713.pdf 
+## Reference: 
+Chen, Lydia. 2016. "Golden Age of China's Education Industry". Technology, Media & Telecommunications Industry, Deloitte China. https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-golden-age-of-the-chinese-education-market-en-160713.pdf 
