@@ -8,18 +8,7 @@ documentclass: book
 
 # Welcome!
 
-<!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
-```
-
-Though Berkely Master of Science in Information and Data Science program, I came up with the following cool ideas about data science. 
-
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-<p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
-```
+This site contains the data-related ideas of Grace Lin, a student of the MIDS program at University of California, Berkeley. These are a couple of ideas I would like to explore. 
 
 ### Abstract of my first cool idea
 
@@ -41,5 +30,12 @@ AMERHOPE can provide online education platform that offers an American elementar
 
 As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching pattern. For example, some students like patient teachers while others tend to study better with encouraging ones. Likewise, some teachers enjoy working with smart and creative students while others tend to get along with obedient ones. We will apply machine learning to study both students' and teachers' behaviors to provide a more tailored curricula.
   
+### About the Author
+Grace is an analyst at TIBCO Software Inc in Palo Alto, California. She is currently pursing a Master of Science in Information and Data Science degree at UC Berkeley.
+
+At TIBCO, she generated more than $80M cash liquidity worldwide. She used maching-learning techniques and automated a foreign exchange (FX) real-time exposure and hedging strategy system using Python and TIBCO Spotfire, a data visualization tool. 
+
+In her free time, she loves adventures aroud the world. 
+
 
 *Updated: `r Sys.Date()`*
