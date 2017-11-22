@@ -41,11 +41,5 @@ AMERHOPE can provide online education platform that offers an American elementar
 
 As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching pattern. For example, some students like patient teachers while others tend to study better with encouraging ones. Likewise, some teachers enjoy working with smart and creative students while others tend to get along with obedient ones. We will apply machine learning to study both students' and teachers' behaviors to provide a more tailored curricula.
   
-### Abstract of my third cool idea
-
-
-
-## About the author
-
 
 *Updated: `r Sys.Date()`*
