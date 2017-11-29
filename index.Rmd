@@ -10,23 +10,21 @@ documentclass: book
 
 This site contains the data-related ideas of Grace Lin, a student of the MIDS program at University of California, Berkeley. These are a couple of ideas I would like to explore. 
 
+<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
+<p>
+```{r hello,echo=FALSE,fig.cap='Opportunity Scoring!',fig.align='center'}
+knitr::include_url('https://drive.google.com/open?id=14Q75yHXMoo14Qup5fdgHgNdhLzVXv2fV')
+```
+
 ### Abstract of my first cool idea
 
 Sales teams are often surrounded with an enormous number of opportunities, which makes picking winning opportunities very challenging, if not impossible. Many sales teams lack rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which opportunities to prioritize and which deals may require a bit of extra effort. Using predictive analytics, our team can create automated scoring rules to prioritize the highest value deals. In addition, this will let salespeople forecast revenue and bookings numbers based on opportunities currently in their pipeline. 
-
-We can score sales opportunities to determine the likelihood of winning a deal. Sales reps can then use these scores to prioritize the opportunities they work on. We use text-mining techniques to scrape data from email communications between sales representatives and customers to evaluate the success probability of a deal. In addition, we take the following feature specifications into consideration:
-
-1. Revenue potential; 2. Customer historical transactions; 3. Resource requirements; 4. Familiarity; 5. Conflicts; 6. Cost of sales; 7. Customer relationships; 8. The responsible sales representative's past performance
-
-We create a predictive model based on these features from all the historical opportunities and consider whether they successfully converted into win deals. The model considers all the attributes of the opportunity including custom fields and identifies which attributes are most correlated to successful conversions. The output is a predictive model with weightings for each attribute. This model can then be applied to every new opportunity to predict whether it will result in a successful conversion.
 
 Scoring the opportunities provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. Opportunity scoring is a powerful tool to help them separate the winners from the losers with insights from business intelligence and predictive analytics.
 
 ### Abstract of my second cool idea
 
-China’s online English education market is estimated to grow at more than 50 per cent a year to 90 billion USD by 2020[1]. Affluent middle-class families have more demands for qualified native English speakers to teach their children both English and other subjects in English. However, with limited resources, the student to foreign teacher ratio is only 40 to 1 in urban areas. It is even harder for students in rural areas to receive qualified education. On the other side, more teachers are exploring ways to benefit through cross-cultural and personal enrichment. AMERHOPE's vision is to provide a platform to connect English teachers in America, UK, Australia, and Canada with students in China. Internet-enabled artificial intelligence can help provide more tailor-made curricula after online assessment.
-
-AMERHOPE can provide online education platform that offers an American elementary education experience to Chinese students. We will hire qualified teachers with experience in the North American classroom to give one-on-one, fully immersive lessons delivered via our platform and based on U.S. Standards. The process will adhere to a flipped classroom model, entailing a pre-class video that introduce key learning points, interactive one-on-one instruction that reinforce learning objectives, and follow-up, post class homework.
+China’s online English education market is estimated to grow at more than 50 per cent a year to 90 billion USD by 2020. AMERHOPE can provide online education platform that offers an American elementary education experience to Chinese students. We will hire qualified teachers with experience in the North American classroom to give one-on-one, fully immersive lessons delivered via our platform and based on U.S. Standards. The process will adhere to a flipped classroom model, entailing a pre-class video that introduce key learning points, interactive one-on-one instruction that reinforce learning objectives, and follow-up, post class homework.
 
 As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching pattern. For example, some students like patient teachers while others tend to study better with encouraging ones. Likewise, some teachers enjoy working with smart and creative students while others tend to get along with obedient ones. We will apply machine learning to study both students' and teachers' behaviors to provide a more tailored curricula.
   
