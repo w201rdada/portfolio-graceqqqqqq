@@ -1,21 +1,21 @@
-# My first cool idea
+# My first cool idea - OppScore
 
 #### Keywords
 
 Opportunity scoring
 
-## Why need opportunity scoring?
+## Why need OppScore?
 
 Every one of us fails at times. Then, we look back in retrospect and wonder how things could have gone differently. But if we could start our endeavors with this hindsight, we could avoid many failures.
 
-Sales teams are often surrounded with an enormous number of opportunities, which makes picking winning opportunities very challenging, if not impossible. Many sales teams lack rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which opportunities to prioritize and which deals may require a bit of extra effort. Using predictive analytics, our team can create automated scoring rules to prioritize the highest value deals. In addition, this will let salespeople forecast revenue and bookings numbers based on opportunities currently in their pipeline.
+Sales teams are often surrounded with an enormous number of opportunities, which makes picking winning one very challenging, if not impossible. Many sales teams lack rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which deals to prioritize and which may require a bit of extra effort. OppScore is a product for companies to purchase and then deploy to their sales teams.  Using predictive analytics, OppScore creates automated scoring rules to prioritize the highest value deals. In addition, this will let salespeople forecast revenue and bookings numbers currently in their pipeline. 
 
 
 ## How to score?
 
-Using machine learning techniques, our team can score sales opportunities to determine the likelihood of winning a deal. Sales reps can then use these scores to prioritize the opportunities they work on. 
+Using machine learning techniques, OppScore scores sales opportunities to determine the likelihood of winning a deal. Sales reps can then use these scores to prioritize the deals they are working on. 
 
-We use text-mining techniques to scrape data from email communications between sales representatives and customers to evaluate the success probability of a deal. In addition, we take the following feature specifications into consideration:
+We use text-mining techniques to scrape data from open-source platforms. In addition, we take the following feature specifications into consideration:
 
 *  Revenue potential
 *  Customer historical transactions
@@ -26,10 +26,10 @@ We use text-mining techniques to scrape data from email communications between s
 *  Customer relationships
 *  The responsible sales representative's past performance
 
-We create a predictive model based on these features from all the historical opportunities and consider whether they successfully converted into win deals. The model considers all the attributes of the opportunity including custom fields and identifies which attributes are most correlated to successful conversions. The output is a predictive model with weightings for each attribute. This model can then be applied to every new opportunity to predict whether it will result in a successful conversion.
+OppScore creates a predictive model based on these features from all the historical opportunities and consider whether they successfully converted into win deals. The model considers all the attributes including custom fields and identifies which attributes are most correlated to successful conversions. The output is a predictive model with weightings for each attribute. This model can then be applied to predict whether it will result in a successful conversion.
 
-Once we have defined all the relevant criteria and applied the scoring, we can then create a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
+Once we have defined all the relevant criteria and applied the scoring, OppScore then creates a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
 
-## A powerful tool
+## Future
 
-Scoring the opportunities provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. Opportunity scoring is a powerful tool to help them separate the winners from the losers with insights from business intelligence and predictive analytics.
+OppScore provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. It helps them separate the winners from the losers with insights from business intelligence and predictive analytics. It's powerful database provides solution to build models which can be applied to companies in new markets.  
