@@ -30,6 +30,6 @@ OppScore creates a predictive model based on these features from all the histori
 
 Once we have defined all the relevant criteria and applied the scoring, OppScore then creates a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
 
-## Future
+## Time to Score!
 
 OppScore provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. It helps them separate the winners from the losers with insights from business intelligence and predictive analytics. Its powerful database provides solution to build models which can be applied to companies in new markets as well. 
