@@ -8,7 +8,7 @@ Opportunity scoring
 
 Every one of us fails at times. Then, we look back in retrospect and wonder how things could have gone differently. But if we could start our endeavors with this hindsight, we could avoid many failures.
 
-Sales teams are often surrounded with an enormous number of opportunities, which makes picking winning one very challenging, if not impossible. Many sales teams lack rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which deals to prioritize and which may require a bit of extra effort. OppScore is a product for companies to purchase and then deploy to their sales teams.  Using predictive analytics, OppScore creates automated scoring rules to prioritize the highest value deals. In addition, this will let salespeople forecast revenue and bookings numbers currently in their pipeline. 
+Sales teams are often surrounded with an enormous number of opportunities, which makes picking winning one very challenging, if not impossible. Many sales teams lack rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which deals to prioritize and which may require a bit of extra effort. OppScore is a product for companies to purchase and then deploy to their sales teams.  Using predictive analytics, business intelligence, and machine learning, OppScore creates automated scoring rules to prioritize the highest value deals. In addition, this will let salespeople forecast revenue and bookings numbers currently in their pipeline. 
 
 
 ## How to score?
@@ -28,8 +28,8 @@ OppSocre use text-mining techniques to scrape data from open-source platforms. I
 
 OppScore creates a predictive model based on these features from all the historical opportunities and consider whether they successfully converted into win deals. The model considers all the attributes including custom fields and identifies which attributes are most correlated to successful conversions. The output is a predictive model with weightings for each attribute. This model can then be applied to predict whether it will result in a successful conversion.
 
-Once we have defined all the relevant criteria and applied the scoring, OppScore then creates a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
+Once define all the relevant criteria and applied the scoring, OppScore then creates a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
 
 ## Time to Score!
 
-OppScore provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. It helps them separate the winners from the losers with insights from business intelligence and predictive analytics. Its powerful database provides solution to build models which can be applied to companies in new markets as well. 
+OppScore provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. It helps them separate the winners from the losers with insights from business intelligence, predictive analytics, and machine learning. Its powerful database provides solution to build models which can be applied to companies in new markets as well. 
