@@ -32,4 +32,4 @@ Once we have defined all the relevant criteria and applied the scoring, OppScore
 
 ## Future
 
-OppScore provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. It helps them separate the winners from the losers with insights from business intelligence and predictive analytics. Its powerful database provides solution to build models which can be applied to companies in new markets.  
+OppScore provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. It helps them separate the winners from the losers with insights from business intelligence and predictive analytics. Its powerful database provides solution to build models which can be applied to companies in new markets as well. 
