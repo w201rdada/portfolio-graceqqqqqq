@@ -15,7 +15,7 @@ Sales teams are often surrounded with an enormous number of opportunities, which
 
 Using machine learning techniques, OppScore scores sales opportunities to determine the likelihood of winning a deal. Sales reps can then use these scores to prioritize the deals they are working on. 
 
-We use text-mining techniques to scrape data from open-source platforms. In addition, we take the following feature specifications into consideration:
+OppSocre use text-mining techniques to scrape data from open-source platforms. In addition, it takes the following feature specifications into consideration:
 
 *  Revenue potential
 *  Customer historical transactions
