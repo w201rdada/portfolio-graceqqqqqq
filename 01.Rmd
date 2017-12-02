@@ -4,14 +4,14 @@
 
 Opportunity scoring
 
-## A beginning.
+## Why need opportunity scoring?
 
 Every one of us fails at times. Then, we look back in retrospect and wonder how things could have gone differently. But if we could start our endeavors with this hindsight, we could avoid many failures.
 
 Sales teams are often surrounded with an enormous number of opportunities, which makes picking winning opportunities very challenging, if not impossible. Many sales teams lack rapid and real-time access to actionable insights, intelligent recommendations and collaboration tools that can show them which opportunities to prioritize and which deals may require a bit of extra effort. Using predictive analytics, our team can create automated scoring rules to prioritize the highest value deals. In addition, this will let salespeople forecast revenue and bookings numbers based on opportunities currently in their pipeline.
 
 
-## A middle.
+## How to score?
 
 Using machine learning techniques, our team can score sales opportunities to determine the likelihood of winning a deal. Sales reps can then use these scores to prioritize the opportunities they work on. 
 
@@ -30,6 +30,6 @@ We create a predictive model based on these features from all the historical opp
 
 Once we have defined all the relevant criteria and applied the scoring, we can then create a matrix or dashboard that helps visualize which opportunities will deliver the greatest value with the lowest amount of risk or cost.
 
-## An end.
+## A powerful tool
 
 Scoring the opportunities provides a consistent methodology to prioritize the right opportunities sales teams should be pursuing in their pipeline. Opportunity scoring is a powerful tool to help them separate the winners from the losers with insights from business intelligence and predictive analytics.
