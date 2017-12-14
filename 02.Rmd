@@ -1,4 +1,4 @@
-# My second cool idea - AMERHOPE
+# AMERHOPE
 Connect Chinese students with English teachers
 
 #### Keywords
@@ -6,13 +6,14 @@ Remote Learning, Student Matching, Customized Studies
 
 ## Greater Demand for Native English-Speaking Teachers in China
 Dear investors, 
-China’s online English education market is estimated to grow at more than 50 per cent a year to 90 billion USD by 2020[1]. Affluent middle-class families have more demands for qualified native English speakers to teach their children both English and other subjects in English. However, with limited resources, the student to foreign teacher ratio is only 40 to 1 in urban areas. It is even harder for students in rural areas to receive qualified education. On the other side, more teachers are exploring ways to benefit through cross-cultural and personal enrichment.  AMERHOPE's vision is to provide a platform to connect English teachers in America, UK, Australia, and Canada with students in China. Internet-enabled artificial intelligence can help provide more tailor-made curricula after online assessment. 
+China’s online English education market is estimated to grow at a rate of more than 50 per cent a year to reach 90 billion USD by 2020[1]. Affluent middle-class families have more demand for qualified native English speakers to teach their children both English and other subjects in English. However, with limited resources, the student-to-foreign-teacher ratio is only 40 to 1 in urban areas. It is even harder for students in rural areas to receive this education. On the other side of the world, more teachers outside of China are exploring ways to benefit through cross-cultural and personal enrichment. AMERHOPE's vision is to provide a platform to connect English teachers in America, UK, Australia, and Canada with students in China.
 
+To ensure the success of these partnerships in spite of the distance and virtual nature of the relationship, AMERHOPE will use data science and internet-enabled artificial intelligence to provide teachers and students additional support. Specificially, we can use algorithms to match students to teachers with whom they are most likely to succeed.  
 
 ## What AMERHOPE Can Do
-AMERHOPE can provide online education platform that offers an American elementary education experience to Chinese students. We will hire qualified teachers with experience in the North American classroom to give one-on-one, fully immersive lessons delivered via our platform and based on U.S. Standards. The process will adhere to a flipped classroom model, entailing a pre-class video that introduce key learning points, interactive one-on-one instruction that reinforce learning objectives, and follow-up, post class homework.
+AMERHOPE is an online education platform that offers an American elementary education experience to Chinese students. We will hire qualified teachers with experience in the North American classroom to give one-on-one, fully immersive lessons delivered via our platform and based on U.S. Standards. The process will adhere to a flipped classroom model, entailing a pre-class video that introduces key learning points, interactive one-on-one instruction that reinforces learning objectives, and follow-up, post-class homework.
 
-As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching pattern. For example, some students like patient teachers while others tend to study better with encouraging ones. Likewise, some teachers enjoy working with smart and creative students while others tend to get along with obedient ones. We will apply machine learning to study both students' and teachers' behaviors to provide a more tailored curricula. 
+As we attract more students and teachers, data science can help us match students with teachers based on their learning or teaching patterns. For example, some students like patient teachers while others tend to study better with encouraging ones. Likewise, some teachers enjoy working with smart and creative students while others tend to get along with obedient ones.
 
 
 ## Don't Miss This Opportunity
